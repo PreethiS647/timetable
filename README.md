@@ -108,7 +108,8 @@ Execute the program
 </html>
 ```
 # OUPUT:
-![output](./timetable.png)
+![timetable](https://github.com/PreethiS647/timetable/assets/147313372/81613f47-43ac-4f54-b1d0-24b7da8532a5)
+
 
 ## RESULT :
 The timetable was created successfully.
